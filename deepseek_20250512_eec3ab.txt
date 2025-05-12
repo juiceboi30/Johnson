@@ -1,0 +1,11 @@
+index.html
+styles.css
+script.js
+assets/
+    logo.png
+    favicon.ico
+translations/
+    en.json
+    es.json
+    fr.json
+    // other languages as needed

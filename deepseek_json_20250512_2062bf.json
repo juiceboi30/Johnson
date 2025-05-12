@@ -1,0 +1,20 @@
+{
+    "home": "Home",
+    "about": "About",
+    "education": "Education",
+    "contact": "Contact",
+    "about_me": "About Me",
+    "age": "Age",
+    "bio": "Welcome to my official website. I'm a professional with diverse skills and experiences.",
+    "educational_qualifications": "Educational Qualifications",
+    "degree1": "Bachelor's Degree in Computer Science - University of Technology (2015)",
+    "degree2": "Master's Degree in Artificial Intelligence - Advanced Institute (2018)",
+    "certification1": "Certified Web Developer - Professional Certification Board (2019)",
+    "certification2": "Data Science Specialization - Online Learning Platform (2020)",
+    "contact_me": "Contact Me",
+    "comment_section": "Comment Section",
+    "comment_placeholder": "Leave your comment here...",
+    "submit_comment": "Submit Comment",
+    "anonymous_user": "Anonymous User",
+    "copyright": "© 2023 Johnson Koryon Official. All rights reserved."
+}
